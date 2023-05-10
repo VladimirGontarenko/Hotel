@@ -1,0 +1,76 @@
+
+.pic {
+    width: 100%;
+}
+.bg2 {
+    
+    background:rgb(10, 181, 175);
+    
+}
+p {
+   text-align: justify center; 
+  
+   
+}
+.icon-bar{
+    display: block;
+    text-align: center;
+    
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 20px
+}
+.facebook {
+    background: #3B5998;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    text-align: center;
+  }
+  
+.twitter {
+    background: #55ACEE;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+  .twitter:hover, .facebook:hover {
+      background: #fff;
+  }
+.h5 {
+    font-size: 28px;
+}
+.txt {
+    text-align: center;
+    font-size: xx-large;
+}
+
+h6 {
+    font-size: xx-large;
+    
+}
+.bg3 {
+    background-color: antiquewhite;
+}
+.instagram {
+    background: #55ACEE;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 15px;
+}
+.icons {
+    background:#55ACEE;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    text-align: center;
+}
